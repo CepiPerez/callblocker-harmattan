@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Tue, 08 Nov 2011 16:23:17 -0300
+Source: callblocker
+Binary: callblocker
+Architecture: armel
+Version: 0.0.3
+Distribution: unstable
+Urgency: low
+Maintainer: matias <matias@unknown>
+Changed-By: matias <matias@unknown>
+Description: 
+ callblocker - Call blocker for meego
+Changes: 
+ callblocker (0.0.3) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ f148b573f381ccffe9e128a3bd153382b1ebed50 63442 callblocker_0.0.3_armel.deb
+Checksums-Sha256: 
+ e73d4a609da76410c30befa61af7679ec121107d8c68987a9be24c6ae628f48d 63442 callblocker_0.0.3_armel.deb
+Files: 
+ b61c7134dbb503a4b9137c5c7ebb0a60 63442 user/other optional callblocker_0.0.3_armel.deb
+Maemo-Display-Name: Call Blocker

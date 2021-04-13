@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MainPage.qml</file>
+        <file>qml/FileDelegate.qml</file>
+        <file>qml/DrillDownDelegate.qml</file>
+        <file>qml/NumbersList.qml</file>
+        <file>qml/createobject.js</file>
+        <file>qml/AddNumber.qml</file>
+        <file>qml/GroupSeparator.qml</file>
+        <file>qml/SelectionItem.qml</file>
+        <file>qml/Contacts.qml</file>
+    </qresource>
+</RCC>
